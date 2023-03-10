@@ -1,0 +1,17 @@
+{
+    "name": "globalonex/matrix_ref",
+    "description": "Matrix Referral System",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MatrixRef\\": "src/MatrixRef/",
+            "MatrixRef\\Services\\": "src/MatrixRef/Services/"
+        }
+    },
+    "authors": [
+        {
+            "name": "globalonex"
+        }
+    ],
+    "require": {}
+}
